@@ -1,0 +1,2 @@
+Write a program that print out the numbers from 1 to 100 and show three if the number divided by three
+and five if the number divided by 5 and three five if the number divided by both three and five
