@@ -3,3 +3,16 @@ and five if the number divided by 5 and three five if the number divided by both
 
 
 I will work on it
+int main ()
+{
+int n==100 ;
+for ( int i=3; i<100; i++)
+for (int j= 3; j<100; j++)
+}
+if ( i % j ==0)
+break;
+else if ( i==j+1)
+cout << i << "number" ;
+}
+return 0;
+}
