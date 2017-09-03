@@ -1,0 +1,8 @@
+Write a program that calculate the tax and the total of a bill, if the bill is under a hundred 
+the tax is 15%. if the bill is between 100 and 200 the tax is 20%. and if the bill is over 200 the tax
+is 30%
+the output should be something like this:
+Bill  : 100
+Tax   : 15
+-----------
+Total : 115
