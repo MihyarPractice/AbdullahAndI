@@ -6,3 +6,25 @@ Bill  : 100
 Tax   : 15
 -----------
 Total : 115
+
+#include<iostream>
+using namespace std;
+int main(total=0;  tax=0;  bill=0;)
+{
+cout<<"enter the price for the total"<<endl;
+cin>>" enter the total">>;
+if (bill<100){
+total= (bill+15);
+}
+else if (bill <=200){
+total=(bill+20);
+{
+else if (bill>200){
+total=(bill+30);
+      }
+cout<<"total"<<endl;
+}
+return 0;
+}
+
+
